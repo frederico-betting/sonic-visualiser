@@ -1,6 +1,6 @@
 #!/bin/sh
 
-LANGUAGES="ru en_GB en_US cs_CZ"
+LANGUAGES="ru en_GB en_US cs_CZ pt_BR"
 
 LUPDATE="lupdate"
 LRELEASE="lrelease"
